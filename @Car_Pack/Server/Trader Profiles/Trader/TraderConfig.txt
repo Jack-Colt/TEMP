@@ -1,0 +1,20 @@
+<Trader> Vehicles Trader								// <- Find this line !
+	<Category> Vehicles									// <- Find this line !
+		SobUazb,		V,		13500,	7000	// <- Line to add !
+		SobUazb_t,		V,		15500,	8000	// <- Line to add !
+		SobUazl,		V,		20000,	12000	// <- Line to add !
+		btrSoba,		V,		32500,	19000	// <- Line to add !
+
+	<Category> Vehicle Parts							// <- Find this line !
+		UazBDoors_Driver,		*,		825,	175		// <- Line to add !
+		UazBDoors_CoDriver,		*,		825,	175		// <- Line to add !
+		uazlDoors_Driver,		*,		1525,	375		// <- Line to add !
+		uazlDoors_CoDriver,		*,		1525,	375		// <- Line to add !
+		uazlDoors_Cargo1,		*,		1525,	375		// <- Line to add !
+		uazlDoors_Cargo2,		*,		1525,	375		// <- Line to add !
+		UazlCamoNetShelter,		*,		3600,	1000		// <- Line to add !
+		btrDoors_Driver,		*,		6525,	1175		// <- Line to add !
+		btrDoors_Cargo1,		*,		6525,	1175		// <- Line to add !
+		UazlWheel,				*,		1225,	175		// <- Line to add !
+		HatchbackWheel,				*,		600,	125		// <- Line to add !
+		btrWheel,				*,		1600,	525		// <- Line to add !

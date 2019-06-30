@@ -1,0 +1,77 @@
+1. Put before  </events>  at the end of the file.
+
+    <event name="SobUazb">
+        <waves>0</waves>
+        <nominal>29</nominal>
+        <min>12</min>
+        <max>17</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="29" min="12" type="uaz_car_sobakenl"/>
+        </children>
+    </event>
+	
+	<event name="SobUazb_t">
+        <waves>0</waves>
+        <nominal>29</nominal>
+        <min>12</min>
+        <max>17</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="29" min="12" type="uaz_car_sobakenl"/>
+        </children>
+    </event>
+	
+    <event name="SobUazl">
+        <waves>0</waves>
+        <nominal>29</nominal>
+        <min>12</min>
+        <max>17</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="29" min="12" type="uaz_car_sobakenl"/>
+        </children>
+    </event>
+	
+    <event name="btrSoba">
+        <waves>0</waves>
+        <nominal>29</nominal>
+        <min>12</min>
+        <max>17</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="29" min="12" type="uaz_car_sobakenl"/>
+        </children>
+    </event>

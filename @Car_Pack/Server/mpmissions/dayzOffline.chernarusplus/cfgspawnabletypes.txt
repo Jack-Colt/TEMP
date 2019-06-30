@@ -1,0 +1,184 @@
+1. Find
+    
+
+    <type name="V3S_Cargo_Grey">
+        <attachments chance="1.00">
+            <item name="V3SWheel" chance="0.60" />
+            <item name="V3SWheel" chance="0.60" />
+            <item name="V3SWheel" chance="0.40" />
+            <item name="V3SWheel" chance="0.40" />
+            <item name="V3SWheelDouble" chance="0.40" />
+            <item name="V3SWheelDouble" chance="0.40" />
+            <item name="V3SWheelDouble" chance="0.40" />
+            <item name="V3SWheelDouble" chance="0.40" />
+            <item name="TruckBattery" chance="0.30" />
+			<item name="HeadlightH7" chance="0.10" />
+			<item name="HeadlightH7" chance="0.10" />
+            <item name="V3SHood_Blue" chance="0.30" />
+			<item name="V3SDoors_Driver_Grey" chance="0.50" />
+            <item name="V3SDoors_CoDriver_Grey" chance="0.50" />
+        </attachments>
+    </type>
+-->
+
+
+2. Create a blank line below "->"
+
+
+3. Copy / Paste the code below
+
+	<type name="SobUazb">
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.40" />
+        </attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazBDoors_Driver" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazBDoors_CoDriver" chance="0.50" />
+        </attachments>			
+	</type>
+	
+	<type name="SobUazb_t">
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HatchbackWheel" chance="0.40" />
+        </attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazBDoors_Driver" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazBDoors_CoDriver" chance="0.50" />
+        </attachments>			
+	</type>
+	
+	<type name="SobUazl">
+		<attachments chance="1.00">
+			<item name="UazlWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazlWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazlWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="UazlWheel" chance="0.40" />
+        </attachments>	
+		<attachments chance="1.00">
+			<item name="UazlWheel" chance="0.40" />
+        </attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="uazlDoors_Driver" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="uazlDoors_CoDriver" chance="0.50" />
+        </attachments>	
+		<attachments chance="1.00">
+			<item name="uazlDoors_Cargo1" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="uazlDoors_Cargo2" chance="0.50" />
+        </attachments>			
+		<attachments chance="1.00">
+			<item name="UazlCamoNetShelter" chance="1" />
+        </attachments>			
+	</type>
+	
+	<type name="SobUazb_t">
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.40" />
+        </attachments>		
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.60" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrWheel" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.20" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrDoors_Driver" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="btrDoors_Cargo1" chance="0.50" />
+        </attachments>			
+	</type>
